@@ -1,3 +1,5 @@
+This was a tutorial from Brad Traversy's [React Front to Back](https://www.udemy.com/share/101XdqAEcdeV1QRnkF/) on Udemy
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
